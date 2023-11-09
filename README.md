@@ -1,2 +1,4 @@
 # nuevo-repo
-Este repositorio es para poder hacer la actividad de pull requests
+
+
+Estoy aprendiendo Pull Requests
